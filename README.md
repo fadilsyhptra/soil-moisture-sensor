@@ -33,9 +33,3 @@ Through this project, I gained practical experience in:
 
 ## 💡 Notes
 This project was created as part of a school practical exam, focusing on both functionality and understanding of core concepts in electronics.
-
----
-
-## 🚀 Future Improvements
-- Add real-time monitoring using a mobile app (e.g., Blynk)  
-- Improve sensor accuracy and calibration  
